@@ -1,52 +1,55 @@
 # Glossary
+[HOME](index.md)
 
 ## Pharmacy
+___
 
-Medicinal product (MP)
+**Medicinal product (MP)**  
 MP -> amoxicillin
 
-Medicinal product unit of use (MPUU)
+**Medicinal product unit of use (MPUU)**  
 MPUU -> amoxicillin 500mg capsule
 
-Medicinal product pack (MPP)
+**Medicinal product pack (MPP)**  
 MPP -> amoxicillin 500mg capsule, 20
 
-Trade product (TP)
+**Trade product (TP)**  
 TP -> Amoxil
 
-Trade product unit of use (TPUU)
+**Trade product unit of use (TPUU)**  
 TPUU -> Amoxil 500mg hard capsule
 
-Trade product pack (TPP)
+**Trade product pack (TPP)**  
 TPP -> Amoxil 500mg hard capsule, 20
 
-Containered trade product pack (CTPP)
+**Containered trade product pack (CTPP)**  
 CTPP -> Amoxil 500mg hard capsule, 20, blister pack
 
 ## Cerner
-Activity data: Patient-specific information, including orders and results for patient visits. Activity
+___
+**Activity data:** Patient-specific information, including orders and results for patient visits. Activity
 data is dynamic.
 
-Activity subtype: A division of the Order Catalog activity type. Activity subtypes are a
+**Activity subtype:** A division of the Order Catalog activity type. Activity subtypes are a
 consideration when placing CareNet orders is specific Cerner Millennium solutions such as
 Laboratory Management and Radiology Management. For example, anatomic pathology can
 have the subtypes AP processing and AP reports.
 
-Activity type: A division of a catalog type in the Order Catalog. For example, a catalog type of
+**Activity type:** A division of a catalog type in the Order Catalog. For example, a catalog type of
 Laboratory may have activity types of General Laboratory, Blood Bank, Microbiology, and
 Anatomic Pathology. Activity types also may be subdivided into activity subtypes. For example,
 Anatomic Pathology may have the activity subtypes of AP Processing and AP Reports. Each
 activity type is associated with a specific catalog type. Every item in the Order Catalog must
 have a catalog type and an activity type.
 
-Acute care: Acute care refers to acute illnesses or needs which can include post-trauma care,
+**Acute care:** Acute care refers to acute illnesses or needs which can include post-trauma care,
 emergency care, intensive care, surgical and post-surgical care, obstetric care, and so forth.
 Acute care facility: A facility which offers care for acute illnesses or needs which can include
 post-trauma care, emergency care, intensive care, surgical and post-surgical care, obstetric
 care, and so forth. Acute care facilities include hospitals, emergency care facilities, and
 ambulatory surgery centers.
 
-ADT: Stands for Admitting, Discharge, Transfer (ADT). Also known as a patient registration
+**ADT:** Stands for Admitting, Discharge, Transfer (ADT). Also known as a patient registration
 system, the ADT system typically captures patient demographic information (religion, race, date
 of birth, name, type of visit, and so on) as well as information about the patient's admitting,
 attending, and referring physicians. The ADT system also provides a means of bed
