@@ -1,7 +1,7 @@
 # Glossary
 [HOME](index.md)
 
-**## Pharmacy
+## Pharmacy
 ___
 
 **Medicinal product (MP)**  
@@ -25,7 +25,7 @@ TPP -> Amoxil 500mg hard capsule, 20
 **Containered trade product pack (CTPP)**  
 CTPP -> Amoxil 500mg hard capsule, 20, blister pack
 
-**## Cerner
+## Cerner
 ___
 **Activity data:** Patient-specific information, including orders and results for patient visits. Activity
 data is dynamic.
