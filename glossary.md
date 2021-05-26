@@ -2,7 +2,6 @@
 [HOME](index.md)
 
 ## Pharmacy
-___
 
 **Medicinal product (MP)**  
 MP -> amoxicillin
@@ -26,7 +25,7 @@ TPP -> Amoxil 500mg hard capsule, 20
 CTPP -> Amoxil 500mg hard capsule, 20, blister pack
 
 ## Cerner
-___
+
 **Activity data:** Patient-specific information, including orders and results for patient visits. Activity
 data is dynamic.
 
