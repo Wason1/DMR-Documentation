@@ -14,7 +14,23 @@ and had the name "Multum (AU): Drug Content"*
 
 ## file processing
 
-change "multum_ndc_snomed_reltn.csv" to "multum_ndc_snomed_reltn.txt". notice **.txt**
+convert "multum_ndc_snomed_reltn.csv" to "multum_ndc_snomed_reltn.xlsx" Where the output is text. This stops excel converting values to scientific notification. This can be done with your python script..
+
+    file_dir = r'C:\Users\whittlj2\data\input.csv'
+    output_dir = r'C:\Users\whittlj2\data\output.xlsx'
+    delimiter = '|'
+    data_type = 'str'
+
+    import pandas as pd
+
+    df_file = pd.read_csv(
+        file_dir
+        , sep = delimiter
+        , dtype=data_type
+        , engine = 'python')
+
+    df_file.to_excel(output_dir, index = False)
+
 
 ## Import ‘multum_ndc_snomed_reltn.csv’ file into Excel
 import "multum_ndc_snomed_reltn.csv" as text into excel. One way to do this is to copy from Jupyterlab into Excel. Or (from within Excel) import the .txt file as text.
