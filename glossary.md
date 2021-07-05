@@ -26,6 +26,10 @@ CTPP -> Amoxil 500mg hard capsule, 20, blister pack
 
 ## Cerner
 
+**CNUM:**  Uniquely identifies a synonyn. CNUM can be used for dose range checking. Paracetemol 500mg tablet or Paracetemol 665mg tablet are seperate CNUM's.
+
+**DNUM:** Identifies at primary level only. Eg paracetemol vs asprin. Used for interaction checking and allergy checking, but not dose range checking.
+
 **Activity data:** Patient-specific information, including orders and results for patient visits. Activity data is dynamic.
 
 **Activity subtype:** A division of the Order Catalog activity type. Activity subtypes are a consideration when placing CareNet orders is specific Cerner Millennium solutions such as Laboratory Management and Radiology Management. For example, anatomic pathology can have the subtypes AP processing and AP reports.
