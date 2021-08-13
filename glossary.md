@@ -19,10 +19,10 @@ TP -> Amoxil
 TPUU -> Amoxil 500mg hard capsule
 
 **Trade product pack (TPP)**  
-TPP -> Amoxil 500mg hard capsule, 20
+TPP -> Telfast 500mg hard capsule, 20
 
 **Containered trade product pack (CTPP)**  
-CTPP -> Amoxil 500mg hard capsule, 20, blister pack
+CTPP -> Telfast 500mg hard capsule, 20, blister pack
 
 **SNOMED CT**
 systemiatized nomenclatur of medicine - clinical terms
