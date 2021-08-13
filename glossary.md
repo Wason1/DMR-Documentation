@@ -24,6 +24,14 @@ TPP -> Amoxil 500mg hard capsule, 20
 **Containered trade product pack (CTPP)**  
 CTPP -> Amoxil 500mg hard capsule, 20, blister pack
 
+**SNOMED CT**
+systemiatized nomenclatur of medicine - clinical terms
+
+**AMT**
+The Australian Meddicines Terminology (AMT) identifies all medicines commonly used in australia, including generic brands. It also fprovides standard names to accurately describe medications.
+
+
+
 ## Cerner
 
 **CNUM:**  Uniquely identifies a synonyn. CNUM can be used for dose range checking. Paracetemol 500mg tablet or Paracetemol 665mg tablet are seperate CNUM's.
