@@ -30,6 +30,9 @@ systemiatized nomenclatur of medicine - clinical terms
 **AMT**
 The Australian Meddicines Terminology (AMT) identifies all medicines commonly used in australia, including generic brands. It also fprovides standard names to accurately describe medications.
 
+**SHRIMP**
+link[SHRIMP](https://ontoserver.csiro.au/shrimp)
+
 
 
 ## Cerner
