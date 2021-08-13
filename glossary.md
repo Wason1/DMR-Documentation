@@ -13,7 +13,7 @@ MPUU -> amoxicillin 500mg capsule
 MPP -> amoxicillin 500mg capsule, 20
 
 **Trade product (TP)**  
-TP -> Amoxil
+TP -> Telfast
 
 **Trade product unit of use (TPUU)**  
 TPUU -> Amoxil 500mg hard capsule
