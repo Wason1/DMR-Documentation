@@ -33,6 +33,9 @@ The Australian Meddicines Terminology (AMT) identifies all medicines commonly us
 **SHRIMP**
 link[SHRIMP](https://ontoserver.csiro.au/shrimp)
 
+**NDC (National Drug Code)**
+The NDC, or National Drug Code, is a unique 10-digit or 11-digit, 3-segment number, and a universal product identifier for human drugs in the United States.
+
 
 
 ## Cerner
